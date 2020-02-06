@@ -1,6 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "Reference List"
+date: 2020-02-06 09:30:00 -0400
+categories: index
 ---
-내 첫번째 블로그
+1. 
+https://poiemaweb.com/
+- 웹 개발 튜토리얼 사이트
